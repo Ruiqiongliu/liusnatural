@@ -1,1 +1,5 @@
-User-agent: *
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
