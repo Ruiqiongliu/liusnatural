@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="6a6ae8b5b016a20d" />
+  
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  <meta property="og:image" content="https://liusnaturalway.us/images/logo.png">
+  <meta property="og:url" content="https://liusnaturalway.us{{ page.url }}">
+  
+  <link rel="canonical" href="https://liusnaturalway.us{{ page.url }}">
+  
+  {% if page.layout == "post" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ page.title | escape }}",
+    "author": {"@type": "Person", "name": "Liu's Natural Way"},
+    "publisher": {"@type": "Organization", "name": "Liu's Natural Way", "logo": {"@type": "ImageObject", "url": "https://liusnaturalway.us/images/logo.png"}},
+    "datePublished": "{{ page.date | date_to_iso8601 }}"
+  }
+  </script>
+  {% endif %}
+
+  {{ site.head | default: "" }}
+  {% seo %}
+</head>
