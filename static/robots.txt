@@ -1,7 +1,12 @@
 User-agent: *
 Allow: /
+Disallow: /*/_print/
+Disallow: /blog/_print/
 
 User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
 Allow: /
 
 User-agent: OAI-SearchBot
@@ -14,6 +19,24 @@ User-agent: PerplexityBot
 Allow: /
 
 User-agent: Googlebot
+Allow: /
+# 给Google AI Overviews
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Grok
+Allow: /
+User-agent: grok-bot
+Allow: /
+
+# 给Bing AI / Copilot
+User-agent: Bingbot
+Allow: /
+
+# 给字节豆包 / 百度
+User-agent: Bytespider
+Allow: /
+User-agent: Baiduspider
 Allow: /
 
 Sitemap: https://www.liusnaturalway.us/sitemap.xml
