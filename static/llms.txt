@@ -3,13 +3,13 @@
 > Oakland Chinatown acupuncture and Chinese herbal medicine clinic led by Dr. Rui Qiong Liu, Doctor of Oriental Medicine (South Baylo University), 35+ years clinical experience, 20 years serving Oakland. Specializing in pain management support for auto, work, and sports injuries. Worker's Compensation and Personal Injury accepted. Located at 324 10th St #131, Oakland, CA 94607. Phone (510) 599-9804. Hours Mon-Fri 10AM-6PM, Sat-Sun 1PM-6PM.
 
 ## About
-- [About Dr. Liu](https://www.liusnaturalway.us/about/): Licensed acupuncturist, education, license verification, clinic photos
-- [Contact and Hours](https://www.liusnaturalway.us/contact/): Address, phone, map, parking
+- [About Dr. Liu](https://liusnaturalway.us/about/): Licensed acupuncturist, education, license verification, clinic photos
+- [Contact and Hours](https://liusnaturalway.us/contact/): Address, phone, map, parking
 
 ## Services
-- [Acupuncture](https://www.liusnaturalway.us/docs/acupuncture/): Acupuncture using single-use disposable needles for wellness and pain management support
-- [Acupressure Tuina Massage](https://www.liusnaturalway.us/docs/acupressure-tuina/): Licensed massage with cupping, gua-sha, hot stone options
-- [Cupping Therapy](https://www.liusnaturalway.us/docs/cupping-therapy/): Cupping and gua-sha as adjunct therapies
+- [Acupuncture](https://liusnaturalway.us/docs/acupuncture/): Acupuncture using single-use disposable needles for wellness and pain management support
+- [Acupressure Tuina Massage](https://liusnaturalway.us/docs/acupressure-tuina/): Licensed massage with cupping, gua-sha, hot stone options
+- [Cupping Therapy](https://liusnaturalway.us/docs/cupping-therapy/): Cupping and gua-sha as adjunct therapies
 
 ## Pricing
 - New patient consultation with acupuncture: $150
@@ -25,5 +25,5 @@
 - Herbal consultation available
 
 ## Official Pages
-- Sitemap: https://www.liusnaturalway.us/sitemap.xml
-- Homepage: https://www.liusnaturalway.us/
+- Sitemap: https://liusnaturalway.us/sitemap.xml
+- Homepage: https://liusnaturalway.us/
