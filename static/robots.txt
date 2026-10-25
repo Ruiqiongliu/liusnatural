@@ -39,4 +39,4 @@ Allow: /
 User-agent: Baiduspider
 Allow: /
 
-Sitemap: https://www.liusnaturalway.us/sitemap.xml
+Sitemap: https://liusnaturalway.us/sitemap.xml
